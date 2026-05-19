@@ -1,4 +1,4 @@
-# WorkBuddy · 智能工作状态监测
+# Real-time monitoring system 智能工作状态监测
 
 > 摄像头实时监测工作状态 → 本地 AI 分析 + 云端幽默日报生成，附带图形界面。
 
@@ -24,7 +24,7 @@
 ## 📦 项目结构
 
 ```
-WorkBuddy/
+Real-time monitoring system/
 ├── main_gui.py            # GUI 入口（推荐）⭐
 ├── main.py                # CLI 入口（后台静默运行）
 ├── backend.py             # 核心逻辑（GUI 与 CLI 共用）
