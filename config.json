@@ -1,0 +1,13 @@
+{
+    "doubao_base_url": "https://ark.cn-beijing.volces.com/api/v3",
+    "doubao_api_key": "YOUR_API_KEY_HERE",
+    "doubao_model": "ep-2025xxxxxxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx",
+    "frame_interval": 0.5,
+    "phone_duration": 5.0,
+    "screenshot_on_change": false,
+    "screenshots_dir": "screenshots",
+    "reports_dir": "daily_reports",
+    "log_file": "status_monitor.log",
+    "report_hour": 18,
+    "report_minute": 0
+}
